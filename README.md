@@ -1,5 +1,5 @@
-This repository is for the "Your First Program" example in the _Introduction to Web Development_ textbook's _How Programs Work_ chapter.  
 
+This repository is for the "Your First Program" example in the _Introduction to Web Development_ textbook's _How Programs Work_ chapter.  
 ## Your First Program: `hello-world`
 
 1. Use your terminal to locate where you want to save this repository.
